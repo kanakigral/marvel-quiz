@@ -1,8 +1,4 @@
-Here is your final version of the **README content** — same style as before, balanced emojis, and now also with a *Technologies Used* section:
-
----
-
-🦸 Marvel Quiz
+🦸 Marvel Quiz: https://kanakigral.github.io/marvel-quiz/
 
 A fun and interactive Marvel-themed quiz web app built using HTML, CSS, and JavaScript.
 The quiz presents Marvel trivia questions with a hint option and lets users answer, skip questions, and view their final score.
