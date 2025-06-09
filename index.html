@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marvel Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <h1>Marvel Quiz</h1>
+        <p id="question"></p>
+        <button onclick="showHint()">Hint</button>
+        <p id="hint"></p>
+        <input type="text" id="answerInput" placeholder="Enter your answer" />
+        <button onclick="checkAnswer()">Submit Answer</button>
+        <button id="skipButton">Skip Question</button> <!-- Added skip button -->
+        <p id="message"></p>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
